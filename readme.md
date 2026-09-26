@@ -23,6 +23,7 @@ This day covers Python and Data Analysis in preparation for later work with gene
 > * Functions
 > * Using Numpy Arrays
 * Using Pandas and dataFrames
+* q = what about rows (loc and iloc)
 * Working with .csv and .xlsx data
 * Statistical financial data analysis
 * Assignment Exercises
