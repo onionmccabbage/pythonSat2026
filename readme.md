@@ -14,20 +14,21 @@ September 2026 - Toby Dussek
 ### What we will do today
 This day covers Python and Data Analysis in preparation for later work with generative  tools
 
-* Welcome, tech check and where to get help & resources
-* Comparing Excel and Python
-* Overview: using Jupyter
-* Writing Python code
-* Data Types and Collections
-* Conditional Logic and Loops
-* Functions
-* Using Numpy Arrays
+> Welcome, tech check and where to get help & resources
+> Comparing Excel and Python
+> Overview: using Jupyter
+> Writing Python code
+> Data Types and Collections
+> Conditional Logic and Loops
+> Functions
+> Using Numpy Arrays
 * Using Pandas and dataFrames
 * Working with .csv and .xlsx data
 * Statistical financial data analysis
 * Assignment Exercises
 * Merging and joining data sources
 * Moving Averages
+* Data Visualization
 
 
 
